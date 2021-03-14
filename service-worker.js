@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RemesasPWA/precache-manifest.9bb8db3b7c3c552280b4dc1250a3b102.js"
+  "/precache-manifest.ed8a60aa6f90f095fb925023f80c201c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "remesaspwa"});
